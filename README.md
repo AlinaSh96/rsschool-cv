@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://AlinaSh96.github.io/rsschool-cv/cv
