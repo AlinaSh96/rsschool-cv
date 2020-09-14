@@ -1,1 +1,5 @@
-
+- Alina Shibaeva;
+- email: alina30081996@gmail.com;
+- I want to become a react developer;
+- Basic HTML, CSS, JS;
+- Site administrator;
