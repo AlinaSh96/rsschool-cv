@@ -4,3 +4,4 @@
 - Basic HTML, CSS, JS;
 - Site administrator;
 - Bachelor's Degree of applied mathematics,React courses;
+- Level of english: A2-B1.
