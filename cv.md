@@ -3,3 +3,4 @@
 - I want to become a react developer;
 - Basic HTML, CSS, JS;
 - Site administrator;
+- Bachelor's Degree of applied mathematics,React courses;
